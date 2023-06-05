@@ -16,28 +16,54 @@ The website being designed for Camarco Consulting LLC is a MERN stack single-pag
 
 ## Installation Instructions
 
-TBD
+To install the necessary dependencies, navigate to the project root directory and run the following command:
+
+`npm install`
+
 
 ## Usage Information
 
-TBD
+To start the application, run the following command:
+
+`npm start`
+
+The application will be accessible at http://localhost:3000.
 
 ## License
-N/A
+
+This project is not licensed.
 
 ## Contribution Guidelines
 
-TBD
+Contributions to this project are currently not open.
 
 ## Test Instructions
 
-To install the necessary dependencies, run the following command:
-```npm install```
+To run the tests for this application, use the following command:
+
+`npm start`
 
 
-To start the application, run:
-```node index.js```
+The application will be accessible at http://localhost:3000.
+
+## License
+
+This project is not licensed.
+
+## Contribution Guidelines
+
+Contributions to this project are currently not open.
+
+## Test Instructions
+
+To run the tests for this application, use the following command:
+
+`npm test`
+
+## Deployed Link
+https://desolate-reef-58395.herokuapp.com/
 
 
 ## Questions
 
+If you have any questions, please reach out to us at mickey@camarcoconsulting.com
